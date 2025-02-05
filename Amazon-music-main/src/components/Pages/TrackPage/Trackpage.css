@@ -1,0 +1,28 @@
+.text-large {
+    font-size: 6.5rem;
+  }
+  
+  @media (max-width: 1200px) {
+    .text-large {
+      font-size: 5rem;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .text-large {
+      font-size: 4rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .text-large {
+      font-size: 3rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .text-large {
+      font-size: 2rem;
+    }
+  }
+  

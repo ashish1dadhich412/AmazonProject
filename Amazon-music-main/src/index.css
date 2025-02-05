@@ -1,0 +1,19 @@
+body {
+    background: black;
+    color: #fff;
+    font-family: "Outfit", sans-serif;
+  }
+  
+  .custom-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  td {
+    background-color: transparent !important;
+    color: #ffffffb0 !important;
+  }
+
+  th {
+    background-color: transparent !important;
+    color: #ffffffb0 !important;
+  }

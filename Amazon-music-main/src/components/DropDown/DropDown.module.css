@@ -1,0 +1,13 @@
+.dropdown {
+    border: 0px !important;
+    
+
+}
+.dropdown::after {
+    display: none !important; 
+  }
+
+.dropdown_menu_show {
+    left: -106px !important;
+    background-color: black !important;
+}

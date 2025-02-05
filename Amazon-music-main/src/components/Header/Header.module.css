@@ -1,0 +1,14 @@
+.nav {
+    background-color: #0a0b0b !important;
+    border-bottom: 1px solid #ffffff47;
+}
+
+.search {
+    border-top-left-radius: 2rem !important;
+    border-bottom-left-radius: 2rem !important;
+}
+
+.search_button {
+    border-top-right-radius: 2rem !important;
+    border-bottom-right-radius: 2rem !important;
+}
